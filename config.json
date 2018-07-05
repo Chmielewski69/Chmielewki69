@@ -1,0 +1,88 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c2e02247804b8372740de0b76311f1ad",
+      "css": "beer",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1bafeeb1808a5fe24484c7890096901a",
+      "css": "user-plus",
+      "code": 62004,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ecf8edb95c3f45eb433b4cce7ba9f740",
+      "css": "users",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "51fb22f9ff9d7f60c95ef31e4c59502d",
+      "css": "comment",
+      "code": 62636,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f99ab40ab0b4d64a74f2d0deeb03e42",
+      "css": "videocam",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dc3f1d5b1d006f7f7b3b6295eccab9da",
+      "css": "camera",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b624a1e512819d410ddbee84e6918b9d",
+      "css": "stop",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ce06b5805120d0c2f8d60cd3f1a4fdb5",
+      "css": "play",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d17030afaecc1e1c22349b99f3c4992a",
+      "css": "star-empty",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59400,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8bc4e828380b962c8b5a04ee982f1d71",
+      "css": "hourglass-1",
+      "code": 62033,
+      "src": "fontawesome"
+    }
+  ]
+}
